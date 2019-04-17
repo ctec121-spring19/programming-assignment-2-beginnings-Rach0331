@@ -2,7 +2,7 @@
 #   Programming Assignment 2
 #     Prob-1.py
 
-# YOUR NAME
+# Rachel
 
 # Purpose: define some variables and print them out
 
@@ -50,8 +50,25 @@ def main():
     
     # print section heading - replace <name> with your name - no angle brackets. 
     # Ex: Bill's Output
-    print("<name>'s Output")
-    # print the title - copy the code above
+    print("Rachel's Output")
+
+    print("\tTitle:\t\t", classTitle, sep="")
+    
+    Location = "SHL 125"
+
+    print("\tLocation:\t", Location, sep="")
+
+    Time= "M&W 10:30AM-12:50PM"
+
+    print("\tTime:\t\t", Time, sep="")
+    
+    Quarter= "Spring 2019"
+
+    print("\tQuarter:\t", Quarter, sep="")
+
+    Item= "Item 6485, Section A"
+
+    print("\tItem/Section:\t", Item, sep="")
 
     # print the location
 
